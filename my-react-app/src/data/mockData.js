@@ -38,7 +38,7 @@ export const mockUsers = [
 
 /**
  * Mock contacts data
- * In production, this would come from your backend API
+ 
  */
 export const mockContacts = [
   {
