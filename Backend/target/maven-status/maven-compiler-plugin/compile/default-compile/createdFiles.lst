@@ -1,11 +1,11 @@
-com\example\crmbackend\controller\ContactController.class
 com\example\crmbackend\service\UserService.class
 com\example\crmbackend\model\Contact.class
 com\example\crmbackend\repository\UserRepository.class
-com\example\crmbackend\config\WebConfig.class
 com\example\crmbackend\service\ContactService.class
 com\example\crmbackend\controller\ReportingController.class
-com\example\crmbackend\controller\UserController.class
 com\example\crmbackend\model\User.class
+com\example\crmbackend\controller\ContactController.class
+com\example\crmbackend\config\WebConfig.class
+com\example\crmbackend\controller\UserController.class
 com\example\crmbackend\CrmBackendApplication.class
 com\example\crmbackend\repository\ContactRepository.class
