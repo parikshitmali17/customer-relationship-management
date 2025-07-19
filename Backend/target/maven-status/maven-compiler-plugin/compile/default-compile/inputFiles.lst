@@ -1,12 +1,12 @@
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\config\WebConfig.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\controller\ContactController.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\controller\ReportingController.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\controller\UserController.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\CrmBackendApplication.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\model\Contact.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\model\ContactDTO.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\model\User.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\repository\ContactRepository.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\repository\UserRepository.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\service\ContactService.java
-C:\Users\parikshit\Desktop\Project\VConnect\Backend\src\main\java\com\example\crmbackend\service\UserService.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\config\WebConfig.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\controller\ContactController.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\controller\ReportingController.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\controller\UserController.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\CrmBackendApplication.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\model\Contact.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\model\ContactDTO.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\model\User.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\repository\ContactRepository.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\repository\UserRepository.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\service\ContactService.java
+C:\Users\parikshit\Desktop\ViConnect Final\Backend\src\main\java\com\example\crmbackend\service\UserService.java
